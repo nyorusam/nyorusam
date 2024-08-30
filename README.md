@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/samnyoru" target="blank"><img src="https://img.shields.io/twitter/follow/samnyoru?logo=twitter&style=for-the-badge" alt="samnyoru" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **FLUTTER & REACT NATIVE**
 
 - 📫 How to reach me **samnyoru4@gmail.com**
 
