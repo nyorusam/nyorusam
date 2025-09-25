@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...AI Marketing Agent 
-- 🌱 I’m currently learning ... SAP Basis Administrator with NodeJs
-- 👯 I’m looking to collaborate on ...Projects centered around young people
+- 🔭 I’m currently working on ... ASR technology to accomodate people with non-standard speech 
+- 🌱 I’m currently learning ... Finetuning LLMs and customizing intelligent agents for specific scenerios 
+- 👯 I’m looking to collaborate on ...Projects centered around AI in assistive tech 
  - ⚡
+ 
 
 <!--
 **nyorusam/nyorusam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
